@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Y Theme\n"
 "POT-Creation-Date: 2017-01-14 20:09+0100\n"
-"PO-Revision-Date: 2021-05-11 09:43+0000\n"
+"PO-Revision-Date: 2021-05-18 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: Español\n"
 "Language: es_ES\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
-"X-Loco-Version: 2.5.2; wp-5.7.1"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
 
 #: admin/admin-settings-page.php:99 admin/composer-side.php:483
 msgid "Documentation"
@@ -79,6 +79,8 @@ msgstr "Logotipo secundario"
 msgid ""
 "Secondary logo is used on fixed menu, transparent menu and middle logo menus."
 msgstr ""
+"El logotipo secundario se utiliza en el menú fijo, el menú transparente y "
+"los menús del logotipo intermedio."
 
 #: admin/admin-settings-page.php:149
 msgid "Favicon"
@@ -118,11 +120,11 @@ msgstr ""
 
 #: admin/admin-settings-page.php:221
 msgid "Main color"
-msgstr ""
+msgstr "Color principal"
 
 #: admin/admin-settings-page.php:222
 msgid "Main color of your website."
-msgstr ""
+msgstr "Color principal de tu sitio web."
 
 #: admin/admin-settings-page.php:235
 msgid "Hover color"
@@ -160,7 +162,7 @@ msgstr ""
 
 #: admin/admin-settings-page.php:320
 msgid "Site width"
-msgstr ""
+msgstr "Ancho del sitio"
 
 #: admin/admin-settings-page.php:321
 msgid "Controls the overall site width in px."
@@ -263,6 +265,7 @@ msgstr ""
 #: admin/admin-settings-page.php:506
 msgid "Lateral dropdown layout for side menus. *Only for side menus."
 msgstr ""
+"Diseño desplegable lateral para menús laterales. * Solo para menús laterales."
 
 #: admin/admin-settings-page.php:517
 msgid "Wide menu"
@@ -551,7 +554,7 @@ msgstr "Diseño de columnas"
 
 #: admin/admin-settings-page.php:879
 msgid "Set the layout of the footer."
-msgstr ""
+msgstr "Establece el diseño del pie de página."
 
 #: admin/admin-settings-page.php:900
 msgid "Footer background"
@@ -2962,7 +2965,7 @@ msgstr ""
 
 #: admin/components/sections.php:219 admin/components/titles.php:195
 msgid "Main image - PNG"
-msgstr ""
+msgstr "Imágen principal - PNG"
 
 #: admin/components/sections.php:231 admin/components/titles.php:207
 #: admin/components/titles.php:216
