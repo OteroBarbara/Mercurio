@@ -350,12 +350,12 @@
         <input type="hidden" class="file_require" value="content_box">
         <?php hc_e_composer_item_menu("Botón de acceso a interpretación en Lengua de Señas.") ?>
         <div class="flex-box">
-        <div class="input-row input-select">
-                        <p><?php _e("Elige aquí el tipo de interpretación en Lengua de Señas:","hc") ?></p>
-                        <select data-hc-setting="button_text" class="animations-list">
-                            <?php hc_html_interpretionLS(); ?>
-                        </select>
-        </div>          
+            <div class="input-row input-select">
+                <p><?php _e("Elige aquí el tipo de interpretación en Lengua de Señas:","hc") ?></p>
+                <select data-hc-setting="button_text" class="animations-list">
+                    <?php hc_html_interpretionLS(); ?>
+                </select>
+            </div>          
         </div>
         <div>
         <?php hc_get_link_engine(); ?>
